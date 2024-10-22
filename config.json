@@ -1,0 +1,10 @@
+{
+    "hosts": {
+        "myminio": {
+            "url": "https://minio.example.com",
+            "accessKey": "YOUR_ACCESS_KEY",
+            "secretKey": "YOUR_SECRET_KEY",
+            "api": "S3v4"
+        }
+    }
+}
